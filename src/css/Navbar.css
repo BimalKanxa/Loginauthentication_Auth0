@@ -3,8 +3,8 @@
 .navbar {
   /* background-color: #FAFAFA; */
   /* background-color: #ffffe0; */
-  /* background-color: rgb(176,174,177); */
-  background: url("./navbg.png");
+  background-color: rgb(176,174,177);
+  background: url("../../public/navbg.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 90px;
