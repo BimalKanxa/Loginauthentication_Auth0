@@ -33,6 +33,7 @@ function NavBar() {
           <NavLink exact to="/" className="nav-logo">
             {/* <i className="fas fa-code">   </i> CS Coder<i className="fas fa-code"></i> */}
             <h3>Cs Coder</h3>
+            
           </NavLink>
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
